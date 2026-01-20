@@ -34,7 +34,7 @@ chat-service/
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/ibroxim91/chat-service.git
+git clone https://github.com/ibroxim91/chat_service_golang.git
 cd chat-service
 ```
 
