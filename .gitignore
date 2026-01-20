@@ -1,0 +1,11 @@
+# Go build files
+bin/
+*.exe
+*.log
+
+# Environment files
+.env
+
+# IDE configs
+.vscode/
+.idea/
